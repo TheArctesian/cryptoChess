@@ -1,3 +1,4 @@
 # Crypto for gaming
 
-Making my own crypto for a game idk yet just set up back end first
+A game that use a crypto currency to kinda bet idk haven't figured it out what I'm doing yet
+
