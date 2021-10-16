@@ -24,9 +24,39 @@ Problems: Not returning correct token supply
 
 was a problem with my truffle config and the solidity version so a set to "^0.8" but still fucked
 
+<br>
+<br>
+<br>
 
 ## Log #2
 
 Day: Friday but its 230 am so its saturday | Date: 16 October 2021
 
-Troubleshooting <br>ya okay I have no clue what the fuck I am doing <br> ok so [this link](https://forum.openzeppelin.com/t/simple-erc20-token-example/4403) kinda looks like it makes sense I should probs just go back to following dapp but this shit doesn't work and its 4am so goodbye I am going to mine RavenCoin.
+Troubleshooting <br>ya okay I have no clue what the fuck I am doing <br> ok so [this link](https://forum.openzeppelin.com/t/simple-erc20-token-example/4403) kinda looks like it makes sense I should probs just go back to following dapp but this shit doesn't work and its 6am so goodbye I am going to mine RavenCoin.
+
+<br>
+<br>
+<br>
+
+## Log #3
+
+
+Day: Actually saturday | Date: 16 October 2021
+
+3 hours of sleep and on a webdev meeting but wanted to write down what the french men told me so I don't forget
+
+<br>
+
+Okay it has been a second and I have talked to french men and they have notes: 
+
+- Balanced economy 
+  - Dont have everything inflate to an obscene point like WOWC
+    - What but how to tho cuz as the price of the coin goes up everything will need to go up as well unless to some type of stable
+
+  - Possibly NFT sharing 
+    - Can steal NFT's from people (possibly in a time frame) but the shares dilute over time 
+
+- This [coin](https://assetstore.unity.com/packages/tools/utilities/blockchain-sdk-by-enjin-124133) as the currency possibly so making an erc20 token could be a waste of time
+  - need to get an account 
+
+- MMO and preferably a world but I would like to just be able to do a small one first

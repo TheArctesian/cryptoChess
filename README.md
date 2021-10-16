@@ -8,7 +8,6 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/thearctesian?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/thearctesian/cryptoGame?style=social)
 
-A game that use a crypto currency to kinda bet idk haven't figured it out what I'm doing yet
 
+A game that use a crypto currency to kinda bet idk haven't figured it out what I'm doing 
