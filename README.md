@@ -14,7 +14,9 @@ Chess but you but with crypto
 
 Check todos for devs
 
-Text me if you want to join discord = the_arctesian#8968
+Text me if you want to join 
+- discord : @the_arctesian#8968
+- telegram : @TheArctesian
 
 
 
