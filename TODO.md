@@ -7,6 +7,7 @@
 # Frontend
 - Theme
   - Clean smooth night city cyberpunk theme : [inspo](https://www.reddit.com/r/Cyberpunk/comments/ecz3yx/cyberchess_3d_animation/)
+  - maybe [this](https://www.youtube.com/watch?v=fdtqqyeKRJk) for pages ya fuk using react tho idk
 - Pages
   - Home
     - Dir to other functions

@@ -77,4 +77,8 @@ I HAVE COME UP WITH AN IDEA. Chess but you put up a bet each game into a pool wi
   - Look at [crypto.games](https://crypto.games/minesweeper/ethereum) someone could lose a lot of money doing this 
       - dw i only but 0.01 eth in its chill 
       - But that addictive thrill is kinda scary I wonder if this will ever ruin someones life. 
+      - Started on working on integrating meta mask 
+      - Init react truffle app with this [video](https://www.youtube.com/watch?v=LzdMosLzj80) 
+      - [Crypto Payments](https://eattheblocks-pro.teachable.com/p/crypto-payments)
+      - I think thats it for now
 <br>
