@@ -60,3 +60,21 @@ Okay it has been a second and I have talked to french men and they have notes:
   - need to get an account 
 
 - MMO and preferably a world but I would like to just be able to do a small one first
+
+
+<br>
+<br>
+<br>
+
+## Log #4
+
+
+Day: Friday | Date: 22 October 2021
+
+I HAVE COME UP WITH AN IDEA. Chess but you put up a bet each game into a pool winner takes all. 
+
+  - Made a todo page
+  - Look at [crypto.games](https://crypto.games/minesweeper/ethereum) someone could lose a lot of money doing this 
+      - dw i only but 0.01 eth in its chill 
+      - But that addictive thrill is kinda scary I wonder if this will ever ruin someones life. 
+<br>
