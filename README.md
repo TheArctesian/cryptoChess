@@ -10,4 +10,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/thearctesian?style=social)
 
 
-A game that use a crypto currency to kinda bet idk haven't figured it out what I'm doing 
+Chess but you but with crypto
