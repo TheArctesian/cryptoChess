@@ -11,7 +11,7 @@
 - Pages
   - Home
     - Dir to other functions
-    - Leaderboard
+    - Leaderboard [websocket.io](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
       - Show players who have earned the most
       - Show players by win rate 
       - Show players by pool
